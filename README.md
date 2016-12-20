@@ -31,14 +31,14 @@ print('The sum of ∑_i∈N i*i =',sum( i**2 for i in N ) )
 
 This course is broken up into a number of notebooks (chapters).
 
-* [00](00.ipynb) This introduction with additional information below on how to get started in running python
-* [01](01.ipynb) Basic data types and operations (numbers, strings) 
-* [02](02.ipynb) String manipulation 
-* [03](03.ipynb) Data structures: Lists and Tuples
-* [04](04.ipynb) Data structures (continued): dictionaries
-* [05](05.ipynb) Control statements: if, for, while, try statements
-* [06](06.ipynb) Functions
-* [07](07.ipynb) Classes and basic object oriented programming
+* [00](http://nbviewer.jupyter.org/github/CINPLA/python-lectures/blob/master/intro-to-python/00.ipynb) This introduction with additional information below on how to get started in running python
+* [01](http://nbviewer.jupyter.org/github/CINPLA/python-lectures/blob/master/intro-to-python/01.ipynb) Basic data types and operations (numbers, strings) 
+* [02](http://nbviewer.jupyter.org/github/CINPLA/python-lectures/blob/master/intro-to-python/02.ipynb) String manipulation 
+* [03](http://nbviewer.jupyter.org/github/CINPLA/python-lectures/blob/master/intro-to-python/03.ipynb) Data structures: Lists and Tuples
+* [04](http://nbviewer.jupyter.org/github/CINPLA/python-lectures/blob/master/intro-to-python/04.ipynb) Data structures (continued): dictionaries
+* [05](http://nbviewer.jupyter.org/github/CINPLA/python-lectures/blob/master/intro-to-python/05.ipynb) Control statements: if, for, while, try statements
+* [06](http://nbviewer.jupyter.org/github/CINPLA/python-lectures/blob/master/intro-to-python/06.ipynb) Functions
+* [07](http://nbviewer.jupyter.org/github/CINPLA/python-lectures/blob/master/intro-to-python/07.ipynb) Classes and basic object oriented programming
 
 This is a tutorial style introduction to Python. For a quick reminder / summary of Python syntax the following [Quick Reference Card](http://www.cs.put.poznan.pl/csobaniec/software/python/py-qrc.html) may be useful. A longer and more detailed tutorial style introduction to python is available from the python site at: https://docs.python.org/3/tutorial/
 
