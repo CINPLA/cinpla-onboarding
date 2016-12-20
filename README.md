@@ -1,10 +1,6 @@
+This is a simplified version of Introduction to Python. See "License" below for information about the original version. 
 
-<small><small><i>
-Introduction to Python - available from https://gitlab.erc.monash.edu.au/andrease/Python4Maths.git
-
-The original version was written by Rajath Kumar and is available at https://github.com/rajathkumarmp/Python-Lectures.
-The notes have been updated for Python 3 and amended for use in Monash University mathematics courses by [Andreas Ernst](http://users.monash.edu.au/~andreas) 
-</small></small></i>
+The intention of this repository is to be used internally in CINPLA for training in Python.
 
 # Python-Lectures
 
@@ -74,3 +70,7 @@ This will clear all the outputs and now you can understand each statement and le
 
 ## License
 This work is licensed under the Creative Commons Attribution 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/
+
+The original version was written by Rajath Kumar and is available at https://github.com/rajathkumarmp/Python-Lectures.
+The notes have been updated for Python 3 and amended for use in Monash University mathematics courses by [Andreas Ernst](http://users.monash.edu.au/~andreas)  - available from https://gitlab.erc.monash.edu.au/andrease/Python4Maths.git
+
